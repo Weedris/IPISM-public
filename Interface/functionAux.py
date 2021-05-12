@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 14 12:39:15 2020
 
-@author: mathieu
-"""
 #import time
 from copy import deepcopy
 import json
