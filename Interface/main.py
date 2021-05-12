@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 14 11:40:48 2020
 
-@author: mathieu
-"""
 from typing import Text
 import matplotlib.pyplot as plt
 import pylab
